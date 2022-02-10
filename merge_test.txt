@@ -1,2 +1,2 @@
 Software engineering is fun!
-Git is useful.
+Hello world!
